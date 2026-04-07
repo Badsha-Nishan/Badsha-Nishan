@@ -12,9 +12,11 @@
 
 <h4>💡 Interested in: Creating scalable and thoughtfully designed web applications while actively learning and building real-world projects.</h4>
 <h4>🎯 Goal: Become a professional developer</h4>
-<h4>🌱 I’m currently learning: React, Node, Next.js, MongoDB</h4>
-<h4>🔭 I’m currently working on: Digital Tool Buying Website > <a target="_blank">digital-tool.netlify.app</a> </h4>
-<h4>📫 How to reach me: <a mailto:badshanisan14@gmail.com>badshanisan14@gmail.com</a> </h4>
+- 🔭 I’m currently working on [Digital Tool Buying Website](digital-tool.netlify.app)
+
+- 🌱 I’m currently learning **React, Node, Next.js, MongoDB**
+
+- 📫 How to reach me **badshanisan14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
