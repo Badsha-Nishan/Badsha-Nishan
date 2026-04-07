@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sk Badsha Nisan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+there+%F0%9F%91%8B;I+am+Badsha+Nishan....;Nice+to+meet+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&width=435&lines=Hello%2C+there+%F0%9F%91%8B;I+am+Badsha+Nishan....;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on [Digital Tool Buying Website](digital-tool.netlify.app)
 
