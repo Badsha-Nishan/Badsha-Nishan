@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sk Badsha Nisan</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">Frontend developer from Bangladesh</h3>
 
 <img width="2000" height="600" alt="Linkedin Cover 2" src="https://github.com/user-attachments/assets/48bcbe2d-c565-4da7-8f87-11b34d2ab6fc" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&width=435&lines=Hello%2C+there+%F0%9F%91%8B;I+am+Badsha+Nishan....;Nice+to+meet+you!)](https://git.io/typing-svg)
 
-🚀 Passionate about learning programming & building real projects
-Aspiring Frontend Developer 👋 | Expert in JavaScript, React.js, Next.js, Node.js 
+<h3>🚀 Passionate about learning programming & building real projects</h3>
+<h3>Aspiring Frontend Developer 👋 | Expert in JavaScript, React.js, Next.js, Node.js </h3>
 
-🔥 About Me
-💡 Interested in: Creating scalable and thoughtfully designed web applications while actively learning and building real-world projects.
-🎯 Goal: Become a professional developer
+<h1>🔥 About Me:</h1>
+
+<h4>💡 Interested in: Creating scalable and thoughtfully designed web applications while actively learning and building real-world projects.</h4>
+<h4>🎯 Goal: Become a professional developer</h4>
 - 🌱 I’m currently learning **React, Node, Next.js, MongoDB**
 - 🔭 I’m currently working on [Digital Tool Buying Website](digital-tool.netlify.app)
 - 📫 How to reach me **badshanisan14@gmail.com**
