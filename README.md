@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&width=435&lines=Hello%2C+there+%F0%9F%91%8B;I+am+Badsha+Nishan....;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 <h3>🚀 Passionate about learning programming & building real projects</h3>
-<h3>Aspiring Frontend Developer 👋 | Expert in JavaScript, React.js, Next.js, Node.js </h3>
+<h3>Aspiring Frontend Developer 👋 | Building projects with JavaScript, React.js, Next.js, Node.js </h3>
 
 <h1>🔥 About Me:</h1>
 
