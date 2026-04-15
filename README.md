@@ -18,26 +18,32 @@
 
 - 📫 How to reach me **badshanisan14@gmail.com**
 
-<h3 align="center">Connect with me:</h3>
+### Connect with me:
 
 <p align="center">
-  <a href="https://linkedin.com/in/badsha-nishan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  <a href="https://linkedin.com/in/badsha-nishan">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://fb.com/badsha.nisan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+  <a href="https://fb.com/badsha.nisan">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" />
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+### Languages and Tools:
 
 <p align="center">
-  <img src="..." width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" />
   &nbsp;
-  <img src="..." width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" />
   &nbsp;
-  <img src="..." width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" />
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" />
+  &nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="40" />
 </p>
 
 ## 📊 GitHub Stats
