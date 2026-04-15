@@ -30,6 +30,16 @@
   </a>
 </p>
 
+<h3 align="center">Languages and Tools:</h3>
+
+<p align="center">
+  <img src="..." width="40" height="40"/>
+  &nbsp;
+  <img src="..." width="40" height="40"/>
+  &nbsp;
+  <img src="..." width="40" height="40"/>
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
